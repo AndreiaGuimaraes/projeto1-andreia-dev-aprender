@@ -1,0 +1,13 @@
+*variáveis
+*controle de fluxo(condicionais)
+*funções
+*coleções
+*classes (oop) Object Oriented Programing
+
+API's
+
+*Flask (web frameworks)
+*Django
+
+*Criar projetos e demontrar isso em um portifólio
+*Colocar no GitHub
